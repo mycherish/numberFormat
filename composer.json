@@ -1,0 +1,12 @@
+{
+    "name": "xuweidong/number-format",
+    "description": "一个处理数字的包",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xuweidong",
+            "email": "xuweidongyn@gmail.com"
+        }
+    ],
+    "require": {}
+}
