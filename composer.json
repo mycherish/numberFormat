@@ -8,5 +8,12 @@
             "email": "xuweidongyn@gmail.com"
         }
     ],
-    "require": {}
+    "autoload": {
+        "psr-4": {
+            "numberFormat\\": "src/"
+        }
+    },
+    "require": {
+         "php": ">=8.2.0"
+    }
 }
